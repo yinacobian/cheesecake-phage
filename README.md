@@ -44,7 +44,8 @@ Go to the following website: https://www.genome.jp/viptree/
 ### 5. Make a phage genome map
 
 
-### 6. There is always little details to modify in your phage genome figures. A free tool to edit these maps is Inkscape https://inkscape.org/release/inkscape-1.3/
+### 6. There is always little details to modify in your phage genome figures. 
+A free tool to edit these maps is Inkscape https://inkscape.org/release/inkscape-1.3/
 
 
 
