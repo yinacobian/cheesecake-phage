@@ -3,7 +3,7 @@ Phage genomes annotation workshop August 2023
 
 You found a new phage, congrats! Now what?
 
-Materials:
+###Materials:
 A phage genome in fasta format
 
 The fasta format:
@@ -11,7 +11,7 @@ The fasta format:
 >phage-cheesecake
 ATGATGATGATGATGGTCCTG
 
-1. Get a phage genome
+###1. Get a phage genome
 
 A fasta file is a plain text file that containg the sequence name and the sequence itself.
 
