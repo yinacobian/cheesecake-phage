@@ -39,8 +39,21 @@ Create an account at: https://www.bv-brc.org/
 
 ### 4. Phage proteomic tree
 
+Go to the following website: https://www.genome.jp/viptree/
+
 ### 5. Make a phage genome map
 
+
+
 ### 6. Prepare a GenBank file for submission
+
+
+
+
+
+### Other useful tools:
+
+https://github.com/gamcil/clinker
+
 
 
