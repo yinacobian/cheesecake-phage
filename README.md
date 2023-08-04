@@ -25,9 +25,13 @@ https://www.ncbi.nlm.nih.gov/nuccore/NC_001416.1?report=fasta
 
 Open the phage genome file in a text editor (for example Notepad++ https://notepad-plus-plus.org/downloads/ , or notepad)
 
-Modify the first line to the name you want. Do not use special characters (like ampersand, tilde, hashtag, etc..)
+#### 2.1 Modify the first line to the name you want. Do not use special characters (like ampersand, tilde, hashtag, etc..)
 
 >Phage_Cheesecake
+
+#### 2.2 Save the text file as .fasta
+
+PhageCheesecake.fasta
 
 ### 3. Phage genome annotation
 
