@@ -37,6 +37,10 @@ PhageCheesecake.fasta
 
 Create an account at: https://www.bv-brc.org/
 
+### 3.1 CDD search annotation
+
+https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi
+
 ### 4. Phage proteomic tree
 
 Go to the following website: https://www.genome.jp/viptree/
